@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tjw123hh
 - 👀 I’m interested in Minecraft.
-- 🌱 I’m currently learning HTML.
 - 📫 tjw123hh@qq.com / tjw123hh@outlook.com
 
 <!---
